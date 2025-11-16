@@ -1,0 +1,5 @@
+bytes,packets,duration,anomaly
+2500,10,2,Normal
+830000,4000,50,Anomaly
+500,8,1,Normal
+700000,2000,40,Anomaly
